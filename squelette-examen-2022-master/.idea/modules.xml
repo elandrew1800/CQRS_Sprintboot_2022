@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/core-api/core-api.iml" filepath="$PROJECT_DIR$/core-api/core-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-formation-command/ms-formation-command.iml" filepath="$PROJECT_DIR$/ms-formation-command/ms-formation-command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-query-Join/ms-query-Join.iml" filepath="$PROJECT_DIR$/ms-query-Join/ms-query-Join.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-scolarite-command/ms-scolarite-command.iml" filepath="$PROJECT_DIR$/ms-scolarite-command/ms-scolarite-command.iml" />
+    </modules>
+  </component>
+</project>
